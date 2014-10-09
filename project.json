@@ -1,0 +1,10 @@
+{
+    "name": "jontst31",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "jontst31.script",
+    "author": "hacker64",
+    "minimum_firmware_version": 40
+}
